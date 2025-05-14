@@ -1,0 +1,8 @@
+{
+  "name": "astro-dagger",
+  "engineVersion": "v0.18.7",
+  "sdk": {
+    "source": "typescript"
+  },
+  "source": ".dagger"
+}
